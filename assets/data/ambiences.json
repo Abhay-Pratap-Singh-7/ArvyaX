@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Emerald Canopy",
+    "tag": "Focus",
+    "durationMinutes": 45,
+    "description": "Immerse yourself in the deep, resonant acoustic profile of an ancient redwood grove. Let the low-frequency hum ground your thoughts.",
+    "thumbnailUrl": "placeholder_forest.jpg",
+    "heroUrl": "placeholder_emerald_canopy.jpg",
+    "audioUrl": "placeholder.mp3",
+    "sensoryMix": ["Canopy Wind", "Distant Stream", "Sub-bass Hum"],
+    "curatorNotes": "Designed for phases of deep cognitive work. The absence of sharp, sudden noises ensures your flow state remains unbroken."
+  },
+  {
+    "id": "2",
+    "title": "Deep Forest Walk",
+    "tag": "Focus",
+    "durationMinutes": 15,
+    "description": "A brisk ambient walk through a deep forest, focusing your mind.",
+    "thumbnailUrl": "placeholder_deep_forest.jpg",
+    "heroUrl": "placeholder_deep_forest.jpg",
+    "audioUrl": "placeholder.mp3",
+    "sensoryMix": ["Leaves Rustling", "Footsteps", "Breeze"],
+    "curatorNotes": "Good for quick pomodoro sessions."
+  },
+  {
+    "id": "3",
+    "title": "Morning Tide",
+    "tag": "Calm",
+    "durationMinutes": 10,
+    "description": "Gentle ocean waves washing over a sandy beach at sunrise.",
+    "thumbnailUrl": "placeholder_morning_tide.jpg",
+    "heroUrl": "placeholder_morning_tide.jpg",
+    "audioUrl": "placeholder.mp3",
+    "sensoryMix": ["Ocean Waves", "Seagulls", "Warm Light"],
+    "curatorNotes": "Perfect for morning meditation."
+  },
+  {
+    "id": "4",
+    "title": "Midnight Rain",
+    "tag": "Sleep",
+    "durationMinutes": 60,
+    "description": "Continuous, soft rain falling against a window pane.",
+    "thumbnailUrl": "placeholder_rain.jpg",
+    "heroUrl": "placeholder_rain.jpg",
+    "audioUrl": "placeholder.mp3",
+    "sensoryMix": ["Soft Rain", "Distant Thunder", "Wind"],
+    "curatorNotes": "Use this as a sleep aid."
+  },
+  {
+    "id": "5",
+    "title": "Binaural Reset",
+    "tag": "Reset",
+    "durationMinutes": 5,
+    "description": "A quick 5-minute binaural beat to recenter your attention.",
+    "thumbnailUrl": "placeholder_binaural.jpg",
+    "heroUrl": "placeholder_binaural.jpg",
+    "audioUrl": "placeholder.mp3",
+    "sensoryMix": ["Binaural", "White Noise", "Drone"],
+    "curatorNotes": "Headphones required for desired effect."
+  },
+  {
+    "id": "6",
+    "title": "Library Ambience",
+    "tag": "Focus",
+    "durationMinutes": 30,
+    "description": "The subtle, comforting sounds of a quiet library.",
+    "thumbnailUrl": "placeholder_library.jpg",
+    "heroUrl": "placeholder_library.jpg",
+    "audioUrl": "placeholder.mp3",
+    "sensoryMix": ["Pages Turning", "Soft Whispers", "Pen Strokes"],
+    "curatorNotes": "A classic backdrop for studying."
+  }
+]
