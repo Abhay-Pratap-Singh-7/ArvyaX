@@ -3,72 +3,160 @@
     "id": "1",
     "title": "Emerald Canopy",
     "tag": "Focus",
-    "durationMinutes": 45,
-    "description": "Immerse yourself in the deep, resonant acoustic profile of an ancient redwood grove. Let the low-frequency hum ground your thoughts.",
-    "thumbnailUrl": "placeholder_forest.jpg",
-    "heroUrl": "placeholder_emerald_canopy.jpg",
-    "audioUrl": "placeholder.mp3",
-    "sensoryMix": ["Canopy Wind", "Distant Stream", "Sub-bass Hum"],
-    "curatorNotes": "Designed for phases of deep cognitive work. The absence of sharp, sudden noises ensures your flow state remains unbroken."
+    "description": "Immerse yourself in the deep redwood grove.",
+    "thumbnailUrl": "placeholder",
+    "heroUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "assets/audio/1.mp3",
+    "sensoryMix": [
+      "Canopy Wind",
+      "Stream",
+      "Hum"
+    ],
+    "curatorNotes": "Deep cognitive work.",
+    "durationSeconds": 109
   },
   {
     "id": "2",
     "title": "Deep Forest Walk",
     "tag": "Focus",
-    "durationMinutes": 15,
-    "description": "A brisk ambient walk through a deep forest, focusing your mind.",
-    "thumbnailUrl": "placeholder_deep_forest.jpg",
-    "heroUrl": "placeholder_deep_forest.jpg",
-    "audioUrl": "placeholder.mp3",
-    "sensoryMix": ["Leaves Rustling", "Footsteps", "Breeze"],
-    "curatorNotes": "Good for quick pomodoro sessions."
+    "description": "A brisk ambient walk.",
+    "thumbnailUrl": "placeholder",
+    "heroUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "assets/audio/2.mp3",
+    "sensoryMix": [
+      "Leaves",
+      "Footsteps",
+      "Breeze"
+    ],
+    "curatorNotes": "Great for pomodoros.",
+    "durationSeconds": 120
   },
   {
     "id": "3",
     "title": "Morning Tide",
     "tag": "Calm",
-    "durationMinutes": 10,
-    "description": "Gentle ocean waves washing over a sandy beach at sunrise.",
-    "thumbnailUrl": "placeholder_morning_tide.jpg",
-    "heroUrl": "placeholder_morning_tide.jpg",
-    "audioUrl": "placeholder.mp3",
-    "sensoryMix": ["Ocean Waves", "Seagulls", "Warm Light"],
-    "curatorNotes": "Perfect for morning meditation."
+    "description": "Gentle ocean waves washing over sand.",
+    "thumbnailUrl": "placeholder",
+    "heroUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "assets/audio/3.mp3",
+    "sensoryMix": [
+      "Waves",
+      "Seagulls",
+      "Warm Light"
+    ],
+    "curatorNotes": "Perfect for morning meditation.",
+    "durationSeconds": 30
   },
   {
     "id": "4",
     "title": "Midnight Rain",
     "tag": "Sleep",
-    "durationMinutes": 60,
-    "description": "Continuous, soft rain falling against a window pane.",
-    "thumbnailUrl": "placeholder_rain.jpg",
-    "heroUrl": "placeholder_rain.jpg",
-    "audioUrl": "placeholder.mp3",
-    "sensoryMix": ["Soft Rain", "Distant Thunder", "Wind"],
-    "curatorNotes": "Use this as a sleep aid."
+    "description": "Continuous soft rain.",
+    "thumbnailUrl": "placeholder",
+    "heroUrl": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "assets/audio/4.mp3",
+    "sensoryMix": [
+      "Soft Rain",
+      "Thunder",
+      "Wind"
+    ],
+    "curatorNotes": "Use as a sleep aid.",
+    "durationSeconds": 49
   },
   {
     "id": "5",
     "title": "Binaural Reset",
     "tag": "Reset",
-    "durationMinutes": 5,
-    "description": "A quick 5-minute binaural beat to recenter your attention.",
-    "thumbnailUrl": "placeholder_binaural.jpg",
-    "heroUrl": "placeholder_binaural.jpg",
-    "audioUrl": "placeholder.mp3",
-    "sensoryMix": ["Binaural", "White Noise", "Drone"],
-    "curatorNotes": "Headphones required for desired effect."
+    "description": "Quick 5-minute binaural beat.",
+    "thumbnailUrl": "placeholder",
+    "heroUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "assets/audio/5.mp3",
+    "sensoryMix": [
+      "Binaural",
+      "White Noise",
+      "Drone"
+    ],
+    "curatorNotes": "Headphones required.",
+    "durationSeconds": 16
   },
   {
     "id": "6",
     "title": "Library Ambience",
     "tag": "Focus",
-    "durationMinutes": 30,
-    "description": "The subtle, comforting sounds of a quiet library.",
-    "thumbnailUrl": "placeholder_library.jpg",
-    "heroUrl": "placeholder_library.jpg",
-    "audioUrl": "placeholder.mp3",
-    "sensoryMix": ["Pages Turning", "Soft Whispers", "Pen Strokes"],
-    "curatorNotes": "A classic backdrop for studying."
+    "description": "Comforting sounds of a library.",
+    "thumbnailUrl": "placeholder",
+    "heroUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "assets/audio/6.mp3",
+    "sensoryMix": [
+      "Pages",
+      "Whispers",
+      "Pen Strokes"
+    ],
+    "curatorNotes": "A classic backdrop for studying.",
+    "durationSeconds": 26
+  },
+  {
+    "id": "7",
+    "title": "Mountain Cabin",
+    "tag": "Calm",
+    "description": "Cozy fireside warmth.",
+    "thumbnailUrl": "placeholder",
+    "heroUrl": "https://images.unsplash.com/photo-1554629947-334ff61d85dc?q=80&w=3136&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "audioUrl": "assets/audio/7.mp3",
+    "sensoryMix": [
+      "Fireplace",
+      "Distant Wind",
+      "Wood Crackle"
+    ],
+    "curatorNotes": "Relaxing and grounded.",
+    "durationSeconds": 31
+  },
+  {
+    "id": "8",
+    "title": "River Meditation",
+    "tag": "Calm",
+    "description": "Smooth river flow.",
+    "thumbnailUrl": "placeholder",
+    "heroUrl": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "assets/audio/8.mp3",
+    "sensoryMix": [
+      "Water ripples",
+      "Birds",
+      "Breeze"
+    ],
+    "curatorNotes": "Washes away distraction.",
+    "durationSeconds": 26
+  },
+  {
+    "id": "9",
+    "title": "Deep Space",
+    "tag": "Reset",
+    "description": "Ambient cosmic drone.",
+    "thumbnailUrl": "placeholder",
+    "heroUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "assets/audio/9.mp3",
+    "sensoryMix": [
+      "Dark Drone",
+      "Pulsar",
+      "Void"
+    ],
+    "curatorNotes": "Great for detachment.",
+    "durationSeconds": 30
+  },
+  {
+    "id": "10",
+    "title": "Thunderstorm",
+    "tag": "Sleep",
+    "description": "Heavy rainfall and thunder.",
+    "thumbnailUrl": "placeholder",
+    "heroUrl": "https://images.unsplash.com/photo-1561484930-998b6a7b22e8?auto=format&fit=crop&w=800&q=80",
+    "audioUrl": "assets/audio/10.mp3",
+    "sensoryMix": [
+      "Heavy Rain",
+      "Thunder Claps",
+      "Patter"
+    ],
+    "curatorNotes": "Ultimate sleep induction.",
+    "durationSeconds": 16
   }
 ]

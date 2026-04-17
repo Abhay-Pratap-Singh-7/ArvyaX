@@ -4,7 +4,7 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import 'data/models/journal_entry.dart';
-import 'data/models/active_session.dart';
+// active_session.dart no longer needed for audio state
 import 'features/home/screens/main_screen.dart';
 
 void main() async {
@@ -15,11 +15,9 @@ void main() async {
   
   // Register Hive Adapters
   Hive.registerAdapter(JournalEntryAdapter());
-  Hive.registerAdapter(ActiveSessionAdapter());
   
   // Open Boxes
   await Hive.openBox<JournalEntry>('journalBox');
-  await Hive.openBox<ActiveSession>('sessionBox');
   
   runApp(
     const ProviderScope(
@@ -38,7 +36,6 @@ class ArvyaxApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
-        scaffoldBackgroundColor: const Color(0xFFF7F8F6),
         primaryColor: const Color(0xFF3F6345),
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color(0xFF3F6345),

@@ -21,8 +21,10 @@ class AmbienceDetailsScreen extends StatelessWidget {
                 children: [
                   Positioned.fill(
                     child: Image.network(
-                      "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=800&q=80",
+                      ambience.heroUrl,
                       fit: BoxFit.cover,
+                      errorBuilder: (_, __, ___) =>
+                          Container(color: const Color(0xFF2C4A30)),
                     ),
                   ),
                   Positioned.fill(
@@ -87,7 +89,7 @@ class AmbienceDetailsScreen extends StatelessWidget {
                     children: [
                       _DetailChip(label: ambience.tag),
                       const _DetailChip(label: "Spatial Audio"),
-                      _DetailChip(label: "${ambience.durationMinutes} Minutes"),
+                      _DetailChip(label: ambience.formattedDuration),
                     ],
                   ),
                   const SizedBox(height: 48),
