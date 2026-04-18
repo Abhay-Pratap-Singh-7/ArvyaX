@@ -2,6 +2,14 @@
 
 A minimal, premium experience app that guides users through ambient soundscapes, immersive sessions, and post-session reflection.
 
+| **Main Screen** | **Cards** | **Audio Details** |
+| :---: | :---: | :---: |
+| <img src="1.jpeg" width="300" alt="My App Screenshot" /> | <img src="2.jpeg" width="300" alt="Instagram App Screenshot" /> | <img src="3.jpeg" width="300" alt="Instagram App Screenshot" /> |
+
+| **Player Session** | **Mini Player** | **journal** |
+| :---: | :---: | :---: |
+| <img src="4.jpeg" width="300" alt="My App Screenshot" /> | <img src="5.jpeg" width="300" alt="Instagram App Screenshot" /> | <img src="6.jpeg" width="300" alt="Instagram App Screenshot" /> |
+
 ## How to Run the Project
 
 1. **Prerequisites**: Ensure you have Flutter stable installed.
